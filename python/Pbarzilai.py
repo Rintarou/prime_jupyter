@@ -3,7 +3,7 @@
 This is a python implementation of the Sieve of Erathostene
 '''
 
-import syss
+import sys
 argv = sys.argv
 
 def crible(n):
