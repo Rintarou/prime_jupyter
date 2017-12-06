@@ -15,13 +15,6 @@ def crible(n):
                     t[j]=False
     return {i if t[i] else 2 for i in range(len(t))}
 
-'''
-def crible2(n):
-    t = [j if k%j else False for j in range(2,n+1) for k in range (j+1, n+1)]
-    return t;
-    return [i if t[i] else 0 for i in range(len(t))]
-'''
-
 if(len(argv)!=2):
     print ("missing arguments\nusage: python3 "+argv[0]+" [integer]")
 else:
