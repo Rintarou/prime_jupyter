@@ -1,10 +1,9 @@
 '''
-@author: Merlin Barzilai
-@group_members: Corentin Marionneau
+@group_members: Corentin Marionneau, Merlin Barzilai
 This is a python implementation of the Sieve of Erathostene
 '''
 
-import sys
+import syss
 argv = sys.argv
 
 def crible(n):

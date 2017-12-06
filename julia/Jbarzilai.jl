@@ -1,6 +1,5 @@
 
-# @author: Merlin Barzilai
-# @group_members: Corentin Marionneau
+# @group_members: Corentin Marionneau, Merlin Barzilai
 # This is a julia implementation of the Sieve of Erathostene
 
 function crible(n)
