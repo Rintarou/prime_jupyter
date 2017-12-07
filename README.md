@@ -9,6 +9,6 @@ the repository contains a folder for each language featured. It was intended tha
 multiple implementation for a single language be stored, for automated benchmarking
 
 contains:
-*python
-*julia
-*R
+* python
+* julia
+* R
