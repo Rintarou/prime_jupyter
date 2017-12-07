@@ -4,7 +4,7 @@ Implementations of the Sieve of Eratosthenes using python, julia and R programmi
 # context
 this is part of students project for high level programming languages
 
-## description
+# description
 the repository contains a folder for each language featured. It was intended that
 multiple implementation for a single language be stored, for automated benchmarking
 
